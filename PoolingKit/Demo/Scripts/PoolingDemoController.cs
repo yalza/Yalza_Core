@@ -1,9 +1,8 @@
-// Assets/Yalza_Core/Pooling/Demo/Scripts/PoolingDemoController.cs
-
 using System.Collections;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using Yalza_Core.PoolingKit.Runtime.Core;
+using Yalza_Core.SingletonKit.Runtime.Core;
 
 namespace Yalza_Core.PoolingKit.Demo.Scripts
 {
@@ -16,7 +15,7 @@ namespace Yalza_Core.PoolingKit.Demo.Scripts
         private Coroutine _autoSpawnRoutine;
         private Camera _cam;
 
-        private void Awake()
+        private void Start()
         {
             _cam = Camera.main;
         }

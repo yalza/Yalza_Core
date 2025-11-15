@@ -1,6 +1,11 @@
 {
   "name": "com.yalza.core",        
   "displayName": "Yalza Core",
-  "version": "1.0.7",
-  "description": "Core helpers & patterns"
+  "version": "1.0.8",
+  "description": "Core helpers & patterns",
+  "author": {
+    "name": "Yalza",
+    "email": "Toann0372@gmail.com",
+    "url": "https://github.com/yalza"
+  }
 }

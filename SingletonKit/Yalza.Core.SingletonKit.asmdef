@@ -1,5 +1,5 @@
 {
-    "name": "Yalza.Core.PoolingKit",
+    "name": "Yalza.Core.SingletonKit",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],

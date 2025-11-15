@@ -1,0 +1,14 @@
+{
+    "name": "Yalza.Core.PoolingKit",
+    "rootNamespace": "",
+    "references": ["GUID:0ce27abc427d1c148bfa93bc87f2e2e8"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

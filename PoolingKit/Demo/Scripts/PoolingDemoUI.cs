@@ -3,6 +3,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using Yalza_Core.PoolingKit.Runtime.Core;
+using Yalza_Core.SingletonKit.Runtime.Core;
 
 namespace Yalza_Core.PoolingKit.Demo.Scripts
 {
