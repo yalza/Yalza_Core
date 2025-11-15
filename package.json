@@ -1,6 +1,6 @@
 {
   "name": "com.yalza.core",        
   "displayName": "Yalza Core",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Core helpers & patterns"
 }
